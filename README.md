@@ -1,5 +1,3 @@
-## CB CYBERSEC
-
 For all things membership, click [here](membership).
 
 ### About
